@@ -20,6 +20,18 @@ This repository contains the frontend source code for the HORIZON Technical Fest
 
 You can access the live version of the website at [http://horizon-iiitvicd.in/](http://horizon-iiitvicd.in/)
 
+Testing ID: 
+```
+testing@gmail.com
+```
+
+Testing Password: 
+```
+12345
+```
+
+(You can also create a new ID, but it might take some time as the website is hosted on a free server.)
+
 ![Website Screenshot](./assets/screenshot.png)
 
 ## Technologies Used
